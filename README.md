@@ -4,6 +4,7 @@
 CSE330 — Machine Learning Sessional | Jan 2026
 
 **Team:** Aurchi Chowdhury · Sakif Naieb Raiyan · Sayaad Muzahid Masfi
+**Supervisor:** Md Muhaiminul Islam Nafi
 
 ---
 
