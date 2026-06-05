@@ -92,7 +92,7 @@ The finetuned model **surpasses the ground truth** colorfulness score, confirmin
 
 ![Test set visual comparison](images/results-test-set.png)
 
-**Outside domain (historical photographs):**
+**Outside domain (our own family photographs):**
 
 ![Outside domain visual comparison](images/results-outside-domain.png)
 
@@ -112,4 +112,4 @@ The finetuned model **surpasses the ground truth** colorfulness score, confirmin
 
 ## Motivation
 
-Just before we were set to submit our project ideas, a team member's parent asked if we could colorize a photo from his first year of university. Although he ended up using a commercial tool, the question sparked the idea. We wanted to build our own colorizer — one capable of breathing new life into old family photos, historical archives, and black-and-white artwork.
+Just before we were set to submit our project ideas, Sakif's father asked if he could colorize a photo from his first year of university. Although he ended up using a commercial tool, the question sparked the idea. We wanted to build our own colorizer — one capable of breathing new life into old family photos, historical archives, and black-and-white artwork.
